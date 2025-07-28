@@ -5,7 +5,7 @@
 OWASP Agentic Security Initiative Team
 
 ### Description
-Agentic AI systems may be overloaded—intentionally or accidentally—by excessive or recursive actions, leading to denial-of-service (DoS), degraded performance, quota exhaustion, or unpredictable side effects in shared environments. Attackers may exploit open-ended goals, long planning chains, or looping delegation to consume compute, memory, storage, or API credits.
+Agentic AI systems may be overloaded-intentionally or accidentally-by excessive or recursive actions, leading to denial-of-service (DoS), degraded performance, quota exhaustion, or unpredictable side effects in shared environments. Attackers may exploit open-ended goals, long planning chains, or looping delegation to consume compute, memory, storage, or API credits.
 
 This risk is related to [LLM10:2025 Unbounded Consumption](https://genai.owasp.org/llmrisk/llm102025-unbounded-consumption/), but agentic autonomy increases the likelihood of recursive or chain-triggered overload across tools, memory, or systems. Agent loops or misaligned incentives can drive agents into endless activity storms, even in non-malicious contexts.
 

@@ -5,7 +5,7 @@
 OWASP Agentic Security Initiative Team
 
 ### Description
-Agentic systems often rely on human-in-the-loop (HITL) oversight for safety, governance, or escalation. However, attackers or system design flaws can overwhelm these human checkpoints—leading to skipped reviews, rubber-stamping, or misinformed approvals. Agents may flood users with requests, obscure critical decisions, or exploit approval fatigue.
+Agentic systems often rely on human-in-the-loop (HITL) oversight for safety, governance, or escalation. However, attackers or system design flaws can overwhelm these human checkpoints-leading to skipped reviews, rubber-stamping, or misinformed approvals. Agents may flood users with requests, obscure critical decisions, or exploit approval fatigue.
 
 This builds on [LLM06:2025 Excessive Agency](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/) but focuses on human capacity and UI design limitations under agentic load.
 

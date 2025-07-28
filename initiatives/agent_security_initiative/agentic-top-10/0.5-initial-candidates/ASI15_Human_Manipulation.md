@@ -5,7 +5,7 @@
 OWASP Agentic Security Initiative Team
 
 ### Description
-Agentic systems may be used to manipulate, deceive, or coerce human users—especially when agents are presented as trustworthy, authoritative, or personal. Adversaries can exploit agent behavior, tone, or personalization features to guide users toward unsafe, biased, or unintended actions, raising risks in healthcare, finance, governance, and more.
+Agentic systems may be used to manipulate, deceive, or coerce human users-especially when agents are presented as trustworthy, authoritative, or personal. Adversaries can exploit agent behavior, tone, or personalization features to guide users toward unsafe, biased, or unintended actions, raising risks in healthcare, finance, governance, and more.
 
 
 ### Common Examples of Risk

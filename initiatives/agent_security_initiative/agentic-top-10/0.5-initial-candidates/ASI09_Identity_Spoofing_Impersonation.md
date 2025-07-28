@@ -5,7 +5,7 @@
 OWASP Agentic Security Initiative Team
 
 ### Description
-Agentic AI systems often operate on behalf of users or services. Attackers can exploit weak identity controls to impersonate agents, users, or systems—gaining unauthorized access, issuing actions, or spreading misinformation. In multi-agent ecosystems, spoofed agents can embed into workflows and manipulate decision-making.
+Agentic AI systems often operate on behalf of users or services. Attackers can exploit weak identity controls to impersonate agents, users, or systems-gaining unauthorized access, issuing actions, or spreading misinformation. In multi-agent ecosystems, spoofed agents can embed into workflows and manipulate decision-making.
 
 
 ### Common Examples of Risk

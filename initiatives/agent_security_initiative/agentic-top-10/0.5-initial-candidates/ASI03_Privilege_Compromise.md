@@ -7,7 +7,7 @@ OWASP Agentic Security Initiative Team
 ### Description
 Agentic systems can escalate privileges internally or via delegation. Attackers exploit implicit trust relationships between agents, tools, memory contexts, or task transitions to execute actions beyond intended permissions. This includes hijacking cross-agent permissions or exploiting reflection mechanisms to bypass intended constraints.
 
-While partially covered by [LLM06:2025 Excessive Agency](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/), this risk is amplified in agentic ecosystems where memory, delegation, and tool orchestration span multiple identities and steps—opening attack surfaces for privilege escalation, impersonation, or authority confusion.
+While partially covered by [LLM06:2025 Excessive Agency](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/), this risk is amplified in agentic ecosystems where memory, delegation, and tool orchestration span multiple identities and steps-opening attack surfaces for privilege escalation, impersonation, or authority confusion.
 
 ### Common Examples of Risk
 1. Reflection or planning loops that elevate permissions across agent sessions.

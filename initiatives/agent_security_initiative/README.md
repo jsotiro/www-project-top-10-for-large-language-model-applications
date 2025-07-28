@@ -1,28 +1,15 @@
 ![image](https://github.com/user-attachments/assets/78261164-dac5-475a-a8c5-bc31dedd50ba)
 
-# OWASP Agentic Security Initiative (ASI) - Insecure Agent Samples
+# OWASP Agentic Security Initiative (ASI) 
 
-## Warning
-The sample applications here are deliberately insecure to demonstrate Agent security risks.  Please exercise caution when deploying in your environment.
+Welcome to OWASP ASI - the home of Agentic security. This folder contains assets and code samples of our work, organised in two folders
 
-## Objective
-We aim to demonstrate security risks in well-known Agentic AI (also known as Agents) frameworks, particularly how Agent misconfigurations (i.e., insecure code, framework-specific misconfigurations) can lead to vulnerabilities identified in the [OWASP Top 10 for Gen AI and Large Language Model Applications 2025](https://owasp.org/www-project-top-10-for-large-language-model-applications).
+## [agentic-Top-10](./agentic-top-10/) ->  Top 10 for Agentic Applications
+The folder contain all the entries for our forthcoming Top 10 for Agentic Applications including candidate entries, community and expert submission, as well  survey and vote results.
 
-This repository contains examples of insecure code and/or security misconfigurations in common Agent frameworks such as:
-
-1. [LangChain](https://github.com/langchain-ai/langchain)
-2. [LangGraph](https://www.langchain.com/langgraph)
-3. [CrewAI](https://www.crewai.com/)
-4. [AutoGen](https://microsoft.github.io/autogen/0.2/)
-5. [OpenAI Swarm (Experimental)](https://github.com/openai/swarm)
-6. [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/)
-
-More Agent frameworks will be supported in the future.
-
-## Structure
-
-The framework folder contains subdirectories for each framework with individual examples of vulnerable agents.
-Each example is accompanied by a description of the vulnerability.
+## [samples](./samples/) ->  Code Samples
+Code samples to demonstrate threats and mitigations. Currently our samples demonstrate threats and vulnerabilities identified in the  [OWASP Top 10 for Gen AI and Large Language Model Applications 2025](https://owasp.org/www-project-top-10-for-large-language-model-applications) and  [Agentic AI - Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/). 
+ 
 
 ## Contributing
 

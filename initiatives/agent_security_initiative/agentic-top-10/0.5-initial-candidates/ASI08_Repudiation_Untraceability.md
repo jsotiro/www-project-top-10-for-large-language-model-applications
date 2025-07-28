@@ -5,7 +5,7 @@
 OWASP Agentic Security Initiative Team
 
 ### Description
-Agentic systems may act in ways that are difficult to trace, verify, or attribute. This untraceability increases the risk of repudiation—where actions cannot be linked to specific agents or inputs—and complicates incident response, auditability, and compliance. Use of reflection, autonomous planning, and delegation chains make it hard to reconstruct what happened, why, and who is responsible.
+Agentic systems may act in ways that are difficult to trace, verify, or attribute. This untraceability increases the risk of repudiation-where actions cannot be linked to specific agents or inputs-and complicates incident response, auditability, and compliance. Use of reflection, autonomous planning, and delegation chains make it hard to reconstruct what happened, why, and who is responsible.
 
 
 ### Common Examples of Risk

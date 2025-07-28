@@ -5,7 +5,7 @@
 OWASP Agentic Security Initiative Team
 
 ### Description
-Agentic systems are prone to hallucinations—confidently presenting false information—as they generate, recall, or reuse unverified outputs. These hallucinations can become self-reinforcing, especially when persisted in memory or reflected across agents. When used in planning, reasoning, or as inputs to other tools, hallucinations may cascade into widespread misinformation, faulty decisions, or unsafe actions.
+Agentic systems are prone to hallucinations-confidently presenting false information-as they generate, recall, or reuse unverified outputs. These hallucinations can become self-reinforcing, especially when persisted in memory or reflected across agents. When used in planning, reasoning, or as inputs to other tools, hallucinations may cascade into widespread misinformation, faulty decisions, or unsafe actions.
 
 This risk aligns with [LLM09:2025 Misinformation](https://genai.owasp.org/llmrisk/llm092025-misinformation/), but agent-based systems introduce higher persistence and propagation risk due to memory and delegation. In multi-agent contexts, false knowledge may circulate and amplify, creating system-wide instability.
 
